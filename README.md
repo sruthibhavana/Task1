@@ -1,6 +1,5 @@
-# Data cleaned 
-# Tools Used
 # Data cleaning 
+# Tools Used
 Python 3
 Pandas (our BFF for this task)
 .isnull(), .drop_duplicates(), and .astype()
