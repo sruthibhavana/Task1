@@ -1,10 +1,9 @@
 # Data cleaning 
 # Tools Used
 Python 3
-Pandas (our BFF for this task)
-# what i did 
-.isnull(), .drop_duplicates(), and .astype()
-Files Included
+Pandas 
+ .isnull(), .drop_duplicates(), and .astype()
+# Files Included
 screen_time_app_usage_dataset.csv – the original raw file
 screen_time_cleaned.csv – the sparkling clean, ready-to-analyze file
 Cleaned.py – the Python script used to clean the data
